@@ -1,4 +1,4 @@
-# Neural-network-Recognizing-Latin-Alphabet-Based-on-Hand-shape-and-Real-Time-Camera-Testing
+# Neural-network-Recognizing-Latin-Alphabet-Based-on-Hand-gesture-and-Real-Time-Camera-Testing
 
 Implementation of a neural network for recognizing Latin alphabet based on movement of the human hand. Our project aims to build a powerful tool for recognizing handwritten text that can be used in various applications such as handwriting recognition and gesture-based interfaces.
 
