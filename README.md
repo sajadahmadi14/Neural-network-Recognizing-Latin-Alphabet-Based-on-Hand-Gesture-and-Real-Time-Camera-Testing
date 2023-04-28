@@ -1,0 +1,1 @@
+# Neural-network-Recognizing-Latin-Alphabet-Based-on-Hand-shape-and-Real-Time-Camera-Testing
